@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "My Stream 2",
+      "description": "Awesome Stream",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Another good stream",
+      "id": 2
+    },
+    {
+      "title": "Jovirone",
+      "description": "Diamond stream",
+      "id": 3
+    }
+  ]
+}
